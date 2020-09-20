@@ -1,0 +1,16 @@
+h1{color: blue}
+h2{color: all;}
+.style1{color: black}
+#style2{color: black}
+.style5{color: rgb(128, 128, 0)}
+p>b{color: blue}
+h2{font-style: italic;}
+h2{font-family: cursive;}
+
+p{text-transform: unset;}
+body{background: linear-gradient(to left,white,darkred)}
+.style5{border:2px double;}
+h1{border:solid; margin-left:83.8% ;background:linear-gradient(to left,violet);}
+u{border:1.5px solid;}
+a{text-decoration: none;}
+a:hover{color: white;background: black;}
